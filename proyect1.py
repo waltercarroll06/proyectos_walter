@@ -2,7 +2,7 @@ usuarios = {
     "walter": {
         "telefono": "3001110000",
         "password": "1234",
-        "saldo": 1000
+        "saldo": 0
     },
     "sofia": {
         "telefono": "3002220000",
